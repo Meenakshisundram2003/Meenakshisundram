@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Meenakshisundram
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Robotics and Autonomous Systems at Arizona State University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: http://www.linkedin.com/in/meenakshisundramg
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+👋 Hi, I’m Meenakshisundram
+👀 I’m interested in Robotics
+🌱 I’m currently learning Robotics and Autonomous Systems at Arizona State University.
+📫 How to reach me: http://www.linkedin.com/in/meenakshisundramg
+😄 Pronouns: He/Him
+
 
 <!---
 Meenakshisundram2003/Meenakshisundram2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
