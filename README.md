@@ -1,5 +1,5 @@
-# Hi there
-## I'm Meenakshisundram Ganapathi Subramanian! 👋
+# Hi there👋
+## I'm Meenakshisundram Ganapathi Subramanian! 
 
 Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise in robotics, automation, control, and testing. I thrive in fast-paced environments and enjoy solving complex problems with innovative solutions.
 
