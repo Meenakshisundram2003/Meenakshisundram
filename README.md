@@ -1,4 +1,4 @@
-# Hi there, I'm Meenakshisundram Ganapathi Subramanian! 👋
+## Hi there, I'm Meenakshisundram Ganapathi Subramanian! 👋
 
 Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise in robotics, automation, control, and testing. I thrive in fast-paced environments and enjoy solving complex problems with innovative solutions.
 
@@ -12,14 +12,11 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 - 💬 Ask me about robotic systems modeling, automation, and mechatronics.
 
-- 📫 How to reach me: [Mail](sundhar422003@gmail.com) 
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundhar422003@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sundhar2003@outlook.in)
 
 - ⚡ Fun fact: I once designed an Arduino-powered Line Follower Robot that secured 1st place in a competition!
 
-
-
-
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
 **Programming Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
@@ -37,7 +34,9 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 🔗 Connect With Me
 
-Feel free to explore my repositories and connect with me via [Linkedin](http://www.linkedin.com/in/meenakshisundramg) if you’d like to collaborate or just chat about robotics and automation!
+Feel free to explore my repositories and connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meenakshisundramg) if you’d like to collaborate or just chat about robotics and automation!
+
+
 
 <!---
 Meenakshisundram2003/Meenakshisundram2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
