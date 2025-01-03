@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meenakshisundram
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently pursuing Robotics and Autonomous Systems at Arizona State University.
-- 📫 How to reach me: http://www.linkedin.com/in/meenakshisundramg
+- 📫 HYou can reach me through [Linkedin](http://www.linkedin.com/in/meenakshisundramg)
 - 😄 Pronouns: He/Him
 
 
