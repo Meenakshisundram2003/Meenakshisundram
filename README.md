@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=white)
 
 **Design Tools:**  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FCA121?style=for-the-badge&logo=dassaultsystems&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystems&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)  
 ![MSC Adams](https://img.shields.io/badge/MSC%20Adams-0078D4?style=for-the-badge&logoColor=white) ![Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
 **Frameworks & Tools:**  
