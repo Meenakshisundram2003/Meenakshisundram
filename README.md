@@ -12,21 +12,31 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 - 💬 Ask me about robotic systems modeling, automation, and mechatronics.
 
-- 📫 How to reach me: [Mail](sundhar422003@gmail.com) , [Linkedin](http://www.linkedin.com/in/meenakshisundramg)
+- 📫 How to reach me: [Mail](sundhar422003@gmail.com) 
 
 - ⚡ Fun fact: I once designed an Arduino-powered Line Follower Robot that secured 1st place in a competition!
 
 
-🛠️ Skills & Tools
 
-Programming Tools:  
 
-Design Tools:  
+## 🛠️ Skills & Tools
 
-Frameworks:
+**Programming Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
+**Python Libraries:**  
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+**Design Tools:**  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FCA121?style=for-the-badge&logo=dassaultsystems&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)  
+![MSC Adams](https://img.shields.io/badge/MSC%20Adams-0078D4?style=for-the-badge&logoColor=white) ![Inventor](https://img.shields.io/badge/Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**Frameworks & Tools:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+
+🔗 Connect With Me
+
+Feel free to explore my repositories and connect with me via [Linkedin](http://www.linkedin.com/in/meenakshisundramg) if you’d like to collaborate or just chat about robotics and automation!
 
 <!---
 Meenakshisundram2003/Meenakshisundram2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
