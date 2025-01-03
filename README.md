@@ -1,8 +1,9 @@
-## Hi there, I'm Meenakshisundram Ganapathi Subramanian! 👋
+# Hi there
+## I'm Meenakshisundram Ganapathi Subramanian! 👋
 
 Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise in robotics, automation, control, and testing. I thrive in fast-paced environments and enjoy solving complex problems with innovative solutions.
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🔭 I’m currently working on MATLAB-based robotic end-effector control and automation systems.
 
@@ -16,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 
 - ⚡ Fun fact: I once designed an Arduino-powered Line Follower Robot that secured 1st place in a competition!
 
-# 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 **Programming Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
@@ -32,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise 
 **Frameworks & Tools:**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
 Feel free to explore my repositories and connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meenakshisundramg) if you’d like to collaborate or just chat about robotics and automation!
 
