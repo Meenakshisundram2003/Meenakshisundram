@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Robotics Engineer with expertise in robotics, automation, control, and testing. I thrive in fast-paced environments and enjoy solving complex problems with innovative solutions.
 
-🚀 About Me
+# 🚀 About Me
 
 - 🔭 I’m currently working on MATLAB-based robotic end-effector control and automation systems.
 
